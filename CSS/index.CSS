@@ -1,0 +1,15 @@
+nav{
+    
+    text-align: center;
+    background-color: antiquewhite;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(34, 24, 11);
+    margin: 30px;
+   
+}
+form{
+    margin:10px;
+   
+}
